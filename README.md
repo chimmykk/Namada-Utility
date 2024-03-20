@@ -40,7 +40,7 @@ Let's try it out!
 
 
 :::info
-:bulb: **Hint:**  :arrow_upper_left: .
+:arrow_upper_left: .
 
 
 Below is a quick overview of how the application works
