@@ -40,7 +40,6 @@ Let's try it out!
 
 
 :::info
-:arrow_upper_left: .
 
 
 Below is a quick overview of how the application works
