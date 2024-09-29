@@ -17,7 +17,7 @@
 
 > ### Step 1: Get the Application and Familiarize Yourself
 > 
-> - [x] Download the application and run it on your MAC ([Copy](https://filebin.net/6htbjuo4bd6g2hir)
+> - [x] Download the application and run it on your MAC ([Copy](https://github.com/chimmykk/Namada-Utility/blob/main/Desktop/NamadaUtility/out/make/zip/darwin/x64/Namada%20App-darwin-x64-1.0.0.zip)
 > - [x] Now Select the options from the Menu 
 > - [x] Use an existing wallet > Wallet that already exist on sys
 > - [x] Derive a wallet >> Derived a fresh wallet with default - -alias set to shieldedaction.
